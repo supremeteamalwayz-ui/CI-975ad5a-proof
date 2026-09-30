@@ -1,0 +1,7 @@
+CI-975ad5a Provenance Test Artifact
+
+Creator: Michael Joel Lewis
+Canonical Project Identifier: CI-975ad5a
+
+This artifact exists solely to test the provenance,
+integrity, signature, and verification workflow.

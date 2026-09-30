@@ -1,0 +1,8 @@
+{
+  "canonical_identifier": "CI-975ad5a",
+  "artifact_name": "artifact.txt",
+  "artifact_sha256": "3672bdf3cb2eda7b04d19081222432406c8e4cef2c4f4b21dd5357763291efcb",
+  "signing_key_fingerprint": "3B15F350FED0E365DE40B780328DBF84D13BDC05",
+  "creator_identity_claim": "Michael Joel Lewis",
+  "created_utc": "2026-09-30T18:11:16Z"
+}
